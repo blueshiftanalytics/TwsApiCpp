@@ -1,5 +1,7 @@
 ### *Note from Blueshift:*
-Jan Boonen was kind enough to provide an excellent wrapper for Interactive Broker's C++ API. All of our C++ implementations of IB API algorithms are built on top of this project. See his page for the most up-to-date versions. This was forked on April 13, 2017 and will not include any updates to the master repository following this date.
+Jan Boonen was kind enough to provide an excellent wrapper for Interactive Broker's C++ API. All of our C++ implementations of IB API algorithms are built on top of this project. See his page for the documentation on how to use the wrapper. This was forked on April 13, 2017 and will not include any updates to the master repository following this date.
+
+Also, we implement these algorithms using Linux and they will NOT necessarily compile on other machines.
 
 # TwsApiC++
 
